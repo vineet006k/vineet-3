@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.MAIN{
+    align-items: center;
+    justify-content: center;
+    min-height: 100px;
+    position: unset;
+    box-shadow: 0 4px 100px 50px rgba(38,68,67,0.457),0 6px 20px 10px
+    rgba(0, 0, 0, 0.19);
+}
+
+.pic{
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height:830px;
+}
+.part-1{
+    background-color: rgba(0, 0, 0, 0.356);
+    height: 290px;
+}
+.bar{
+    background-color:  rgba(40, 227, 248, 0.901);
+    width: 60px;
+    height: 2.5vh;
+    margin-left: 75px;
+    margin-top: 45px;
+}
+.U{
+    font-size: 85px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: 700;
+    margin-left: 70px;
+    margin-top: -15px;
+
+    
+}
+.text-1{
+   font-family: "montserrat";
+}
+.tre{
+    color: white;
+    margin-left: 6vw;
+    margin-top: -20px;
+    font-size: 40px;
+    font-weight:bolder
+}
+.sof{
+    color: white;
+    margin-left: 6vw;
+    margin-left: 75px;
+    margin-top: -25px;
+    font-size: 30px;
+}
+.part-2{
+    background-color: rgba(169, 169, 169, 0.326);
+    height: 580;
+}
+.list{
+    margin-top: 6vw;
+    padding-right: 5vw;
+}
+.li{
+    font-family: "montserrat";
+    color: white;
+    font-size:3.6vw;
+    font-weight:bolder;
+    list-style: square;
+}
+.part-3{
+    background-color: rgba(255, 255, 0, 0.527);
+    height: 250px;
+    padding-left: 9%;
+}
+.lea{
+    font-family: "montserrat";
+    font-size: 75;
+    color: white;
+    font-weight: 800;
+    letter-spacing: 1px;
+    padding-top: 3.5%;
+    margin-left: -2vw;
+}
+.pro{
+    font-family: "montserrat";
+    font-size: 65;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-top: -6%;
+    margin-left: -2vw;
+}
+.part-4{
+    background-color: rgba(68, 67, 67, 0.342);
+    height: 250px;
+    padding-top: 3%;
+    padding-right: 5%;
+    color: aliceblue;
+    text-align: right;
+    font-size: 20px;
+}
+.part-5{
+    padding-left: 7.5%;
+}
+.fir{
+    font-family: "montserrat";
+    font-size: 60;
+    font-weight: 700;
+    color: rgb(242, 81, 81);
+    letter-spacing: 1px;
+    padding-top: 2%;
+}
+.sta{
+    font-family: "montserrat";
+    font-size: 32;
+    color: grey;
+    font-weight:700;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    margin-top: -2%;
+}
+.mon{
+    font-family: "montserrat";
+    font-size: 22;
+    font-weight: 500;
+    color: rgb(145, 143, 143);
+    letter-spacing: 0.5px;
+    margin-top: -1.8%;
+}
+.part-6{
+    background-color:  rgb(69, 205, 228);
+    width: 33.3%;
+    left: 0.5%;
+    padding-top: 5%;
+}
+.logo{
+    height: 85px;
+    width: 85px;
+    margin-bottom: -20%;
+    margin-left: 12%;
+    margin-top: -4%;
+}
+.code{
+    font-family: "montserrat";
+    font-size: 3vw;
+    color: white;
+    font-weight: 800;
+    letter-spacing: 0.06vw;
+    padding-left: 10.5vw;
+    margin-top: 1vw;
+}
+.com{
+    font-family: "montserrat";
+    font-size: 15;
+    color: white;
+    font-weight: 400;
+    padding-left: 34%;
+    margin-top: -7%;
+}
+.part-8{
+    margin-top: 4%;
+    padding-left: 3.5%;
+    padding-right: 1.5%;
+}
+.sec{
+    font-family: "montserrat";
+    font-size: 4.5vw;
+    font-weight:750;
+    color: rgb(69, 205, 228);
+    letter-spacing: 1px;
+    margin-left: 50px;
+}
+.tro{
+    margin-left: 80%;
+    width: 70;
+    height: 90;
+    margin-top: -5px;
+}
+.end{
+    font-family: "montserrat";
+    font-size: 2.4vw;
+    font-weight: 700;
+    color: grey;
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.ear{
+    font-family: "montserrat";
+    font-size: 23px;
+    font-weight: 700;
+    color: grey;
+    text-align: right;
+}
+.rew{
+    font-family: "montserrat";
+    font-size: 23px;
+    color: grey;
+    font-weight: 700;
+    letter-spacing: 1px;
+    word-spacing: 1.5px;
+    margin-top: -20px;
+    text-align: right;
+}
+.pre-1,
+.pre-2
+{
+    font-family: "montserrat";
+    font-weight: 600;
+    color: rgb(145, 143, 143);
+    font-size: 15px;
+    word-spacing: 2px;
+
+}
+.pre-3{
+    font-family: "montserrat";
+    font-size: 13px;
+    font-weight: 600;
+    color: rgb(145, 143, 143);
+    margin-top: -10;
+    height: 200px;
+    text-align:right;
+}
+.our{
+    font-family: "montserrat";
+    font-size: 20;
+    font-weight: 700;
+    color: rgb(242, 81, 81);
+    margin-top: 35px;
+}
+.text-3{
+    font-family: "montserrat";
+    font-size: 45;
+    font-weight: 800;
+    color: grey;
+    letter-spacing: 1px;
+    margin-top: -20px;
+}
+.co{
+    font-family: "montserrat";
+    font-size: 15;
+    font-weight: 500;
+    color: grey;
+    margin-top: -70px;
+    margin-left: 180px;
+}
+.dolor{
+    font-family: "montserrat";
+    font-size: 22;
+    font-weight: 600;
+    color: grey;
+    letter-spacing: 0px;
+    margin-top: 20px;
+}
+.part-7{
+    background-color: rgb(235, 246, 246);
+    padding-left:8%;
+}
+.line{
+    margin-left: -15px;
+    height: 13px;
+    width: 68.2%;
+    background-color: rgba(242,81,81);
+}
